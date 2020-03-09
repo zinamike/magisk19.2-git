@@ -1,7 +1,7 @@
 {
   "app": {
     "version": "7.5.1",
-    "versionCode": "243",
+    "versionCode": "267",
     "link": "https://github.com/zinamike/magisk19.2-git/raw/master/MagiskManager-v7.5.1.apk",
     "note": "https://raw.githubusercontent.com/zinamike/magisk19.2-git/master/changelog.md"
   },
