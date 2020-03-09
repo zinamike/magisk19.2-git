@@ -1,0 +1,1 @@
+# magisk19.2-git
