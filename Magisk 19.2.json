@@ -11,7 +11,7 @@
   "magisk": {
     "version": "20.4",
     "versionCode": "20400",
-    "link": "https://github.com/zinamike/magisk19.2-git/blob/master/Magisk-v20.4(20400).zip",
+    "link": "https://github.com/zinamike/magisk19.2-git/raw/master/Magisk-v20.4(20400).zip",
     "note": "https://raw.githubusercontent.com/zinamike/magisk19.2-git/master/notes.md",
     "md5": "29582A6045444F649FD315B07BB0DEBA"
   }
